@@ -11,9 +11,7 @@ To write a python program to find the rank of a matrix
 ### Step 4:  end of the program
 ##MODEL QUESTION:
 ```
-/*
 Write a program to find the rank for the given matrix([5,-3,-10],[2,2,-3],[-3,-1,5]).
-*/
 `````
 ## Program:
 ```
