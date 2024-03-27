@@ -9,7 +9,8 @@ To write a python program to find the rank of a matrix
 ### Step 2:THe input from the user is stored in the variable a
 ### Step 3: Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4:  end of the program
-##MODEL QUESTION:
+
+## QUESTION:
 ```
 Write a program to find the rank for the given matrix([5,-3,-10],[2,2,-3],[-3,-1,5]).
 `````
