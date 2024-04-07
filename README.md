@@ -7,7 +7,6 @@ To write a python program to find the rank of a matrix
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
    
 ## Algorithm:
-
 ## Step 1: 
     importing the NumPy library using the statement import numpy as np.
 ## Step 2: 
