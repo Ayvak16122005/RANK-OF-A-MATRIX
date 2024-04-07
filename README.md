@@ -2,11 +2,13 @@
 # Date:23/03/2024
 ## Aim:
 To write a python program to find the rank of a matrix
+
 ## Equipment’s required:
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
    
 ## Algorithm:
+
 ## Step 1: 
    importing the NumPy library using the statement import numpy as np.
 ## Step 2: 
@@ -18,10 +20,11 @@ To write a python program to find the rank of a matrix
 ## Step 4: 
    End the program.
    
+
 ## QUESTION:
 ```
 Write a program to find the rank for the given matrix([5,-3,-10],[2,2,-3],[-3,-1,5]).
-`````
+```
 ## Program:
 ```
 /*
@@ -29,13 +32,14 @@ Program to implement univariate Linear Regression to fit a straight line using l
 Developed by:Kavya T 
 RegisterNumber:2305003004  
 */
-`````
+```
 `````python
 import numpy as np
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 rank=np.linalg.matrix_rank(A)
 print(rank)
 `````
+
 ## Output:
 ![Screenshot 2024-04-07 154228](https://github.com/Ayvak16122005/RANK-OF-A-MATRIX/assets/147690197/4ecebfed-ee7f-4e17-bb25-d77bd248b5d4)
 
